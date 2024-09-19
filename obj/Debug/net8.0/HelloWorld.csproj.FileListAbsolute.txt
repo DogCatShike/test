@@ -1,0 +1,14 @@
+E:\study\C#7.0本质论\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+E:\study\C#7.0本质论\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+E:\study\C#7.0本质论\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+E:\study\C#7.0本质论\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+E:\study\C#7.0本质论\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+E:\study\C#7.0本质论\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
